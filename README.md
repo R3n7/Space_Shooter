@@ -9,7 +9,7 @@ Rules Of The Game:
 
 Installation Guide<br />
 1.clone the repository in your local machine.<br />
-```git clone link from the repo```<br />
+```git clone "link from the repo"```<br />
 2.change the directory.<br />
 ```cd space_shooter```<br />
 3.Run this command to install the requirements.<br />
