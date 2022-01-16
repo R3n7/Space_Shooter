@@ -9,21 +9,21 @@ Rules Of The Game:
 
 Installation Guide<br />
 1.clone the repository in your local machine.<br />
-```git clone link from the repo```
+```git clone link from the repo```<br />
 2.change the directory.<br />
-```cd space_shooter```
+```cd space_shooter```<br />
 3.Run this command to install the requirements.<br />
-```pip install -r requirements.txt```
+```pip install -r requirements.txt```<br />
 4.Run the server.py<br />
-![image](https://user-images.githubusercontent.com/90893643/149646956-e68c47e9-09ba-42d0-84d8-77db931dbe9e.png)
+![image](https://user-images.githubusercontent.com/90893643/149646956-e68c47e9-09ba-42d0-84d8-77db931dbe9e.png)<br />
 5.Run the client.py<br />
-![image](https://user-images.githubusercontent.com/90893643/149646964-06232caa-da19-4dbe-b067-0ae2bc01d8e6.png)
+![image](https://user-images.githubusercontent.com/90893643/149646964-06232caa-da19-4dbe-b067-0ae2bc01d8e6.png)<br />
 
 Movements:<br />
 1.Moving the spaceship with up,down,left,right arrow across the window<br />
-![image](https://user-images.githubusercontent.com/90893643/149646992-e18f0807-6730-47d4-9661-a65e5f8d3810.png)
+![image](https://user-images.githubusercontent.com/90893643/149646992-e18f0807-6730-47d4-9661-a65e5f8d3810.png)<br />
 2.Pressing LEFT_CTRL to fire a bullet(the bullet fire sound plays)<br />
-![image](https://user-images.githubusercontent.com/90893643/149647001-33a36f10-9fc4-4f27-8ac4-dd4d9f95b081.png)
+![image](https://user-images.githubusercontent.com/90893643/149647001-33a36f10-9fc4-4f27-8ac4-dd4d9f95b081.png)<br />
 
 When one of the player wins:<br />
-![image](https://user-images.githubusercontent.com/90893643/149647085-f17eb1c8-b457-4bc0-93f1-6b6784ced710.png)
+![image](https://user-images.githubusercontent.com/90893643/149647085-f17eb1c8-b457-4bc0-93f1-6b6784ced710.png)<br />
